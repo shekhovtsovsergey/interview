@@ -1,5 +1,5 @@
 package ru.gb.interview.Lesson1.exercise;
-
+/*
 class LightWeightCar extends Car implements Moveable {
 
     //надо имплементиовать интерфейс Stopable
@@ -12,4 +12,4 @@ class LightWeightCar extends Car implements Moveable {
     @Override
     public void move() {
         System.out.println("Car is moving"); }
-}
+}*/

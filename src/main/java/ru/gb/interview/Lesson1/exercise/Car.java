@@ -1,4 +1,5 @@
 package ru.gb.interview.Lesson1.exercise;
+/*
 
 abstract class Car {
 
@@ -36,4 +37,5 @@ abstract class Car {
         this.name = name;
     }
 }
+*/
 

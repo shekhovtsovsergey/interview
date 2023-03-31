@@ -1,5 +1,6 @@
 package ru.gb.interview.Lesson1.exercise;
 
+/*
 class Lorry extends Car, Moveable, Stopable {
     //нельзя наследовать интерфейсы надо имплементиовать их
     //надо имплементировать метод open
@@ -12,3 +13,4 @@ class Lorry extends Car, Moveable, Stopable {
         System.out.println("Car is stop");
     }
 }
+*/
